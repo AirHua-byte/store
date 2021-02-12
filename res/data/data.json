@@ -1,0 +1,282 @@
+{
+  "nav":[
+    {
+      "id": "001",
+      "title": "首页",
+      "url": "http://www.tugoo.net/tongcheng.aspx",
+      "imageUrl": ""
+    },
+    {
+      "id": "002",
+      "title": "土购生鲜",
+      "url": "http://www.tugoo.net/news.aspx",
+      "imageUrl": ""
+    },
+    {
+      "id": "003",
+      "title": "新闻资讯",
+      "url": "http://www.tugoo.net/tongcheng.aspx",
+      "imageUrl": ""
+    },
+    {
+      "id": "004",
+      "title": "特价商品",
+      "url": "http://www.tugoo.net/tongcheng.aspx",
+      "imageUrl": "http://www.tugoo.net/template/platform_default/new/images/hot.png"
+    },
+    {
+      "id": "005",
+      "title": "企业直采",
+      "url": "http://www.tugoo.net/tongcheng.aspx",
+      "imageUrl": ""
+    },
+    {
+      "id": "006",
+      "title": "商家入驻",
+      "url": "http://www.tugoo.net/tongcheng.aspx",
+      "imageUrl": ""
+    }
+  ],
+  "category":[
+    {
+      "title": "水果蔬菜",
+      "des": [
+        { "title": "苹果" },
+        { "title": "脐橙" },
+        { "title": "榴莲" },
+        { "title": "有机蔬菜" },
+        { "title": "圣女果" }
+      ]
+    },
+    {
+      "title": "休闲食品",
+      "des": [
+        { "title": "葡萄干" },
+        { "title": "开心果" },
+        { "title": "曲奇" },
+        { "title": "月饼" }]
+    },
+    {
+      "title": "生鲜",
+      "des": [
+        { 
+          "title": "鱿鱼"
+        },
+        { "title": "甲鱼" },
+        { "title": "帝王蟹" },
+        { "title": "澳龙" }
+      ]
+    },
+    {
+      "title": "茶叶冲饮",
+      "des": [
+        { "title": "普洱茶" },
+        { "title": "红茶" },
+        { "title": "斯里兰卡茶" },
+        { "title": "柚子茶" }
+      ]
+    }
+  ],
+  "goods":[
+    {
+      "type":"0",
+      "id":"fruits_vegetables",
+      "title":"水果蔬菜",
+      "addr":"http://www.tugoo.net/UploadFile/ggs/201605261835490333.jpg",
+      "des":[
+        {
+          "id":"0",
+          "title":"邮政包邮！【土购网】赣南脐橙5斤试吃装 正宗赣南脐橙 酸甜可口",
+          "price":"19.90",
+          "name":"正宗赣南脐橙",
+          "image":"http://www.tugoo.net/UploadFile/product/317/201711141559442018_352_352.png"
+        },
+        {
+          "id":"1",
+          "title":"九山生姜 2.5kg",
+          "price":"38.90",
+          "name":"九山生姜 2.5kg",
+          "image":"http://www.tugoo.net/UploadFile/product/317/201712301024359452_352_352.jpg"
+        },
+        {
+          "id":"2",
+          "title":"包邮！【土购网】赣南脐橙20斤装精品果  正宗赣南脐橙 酸甜可口 75-95mm",
+          "price":"88.00",
+          "name":"赣南脐橙20斤装精品果",
+          "image":"http://www.tugoo.net/UploadFile/product/317/201511091429567012_352_352.jpg"
+        },
+        {
+          "id":"3",
+          "title":"邮政包邮！【土购网】赣南脐橙5斤试吃装 正宗赣南脐橙 酸甜可口",
+          "price":"19.90",
+          "name":"正宗赣南脐橙",
+          "image":"http://www.tugoo.net/UploadFile/product/317/201711141559442018_352_352.png"
+        },
+        {
+          "id":"4",
+          "title":"九山生姜 2.5kg",
+          "price":"38.90",
+          "name":"九山生姜 2.5kg",
+          "image":"http://www.tugoo.net/UploadFile/product/317/201712301024359452_352_352.jpg"
+        },
+        {
+          "id":"5",
+          "title":"九山生姜 2.5kg",
+          "price":"38.90",
+          "name":"九山生姜 2.5kg",
+          "image":"http://www.tugoo.net/UploadFile/product/317/201712301024359452_352_352.jpg"
+        }
+      ]
+    },
+    {
+      "type": "1",
+      "id":"fresh",
+      "title":"生鲜",
+      "addr":"http://www.tugoo.net/UploadFile/ggs/201605261835490333.jpg",
+      "des":[
+        {
+          "id":"0",
+          "title":"1号鲜客 挪威冰鲜三文鱼刺身400g",
+          "price":"79.00",
+          "name":"挪威冰鲜三文鱼刺身400g",
+          "image":"http://www.tugoo.net/UploadFile/product/317/201707081107044936_352_352.jpg"
+        },
+        {
+          "id":"1",
+          "title":"大连特产鲜活大鲍鱼鲜活海鲜水产活鲜海产",
+          "price":"128.00",
+          "name":"大连特产鲜活大鲍鱼",
+          "image":"http://www.tugoo.net/UploadFile/product/651/201503250925538825_352_352.jpg"
+        },
+        {
+          "id":"2",
+          "title":"大连特产鲜活大鲍鱼鲜活海鲜水产活鲜海产",
+          "price":"128.00",
+          "name":"大连特产鲜活大鲍鱼",
+          "image":"http://www.tugoo.net/UploadFile/product/651/201503250925538825_352_352.jpg"
+        },
+        {
+          "id":"3",
+          "title":"1号鲜客 挪威冰鲜三文鱼刺身400g",
+          "price":"79.00",
+          "name":"挪威冰鲜三文鱼刺身400g",
+          "image":"http://www.tugoo.net/UploadFile/product/317/201707081107044936_352_352.jpg"
+        },
+        {
+          "id":"4",
+          "title":"大连特产鲜活大鲍鱼鲜活海鲜水产活鲜海产",
+          "price":"128.00",
+          "name":"大连特产鲜活大鲍鱼",
+          "image":"http://www.tugoo.net/UploadFile/product/651/201503250925538825_352_352.jpg"
+        },
+        {
+          "id":"5",
+          "title":"大连特产鲜活大鲍鱼鲜活海鲜水产活鲜海产",
+          "price":"128.00",
+          "name":"大连特产鲜活大鲍鱼",
+          "image":"http://www.tugoo.net/UploadFile/product/651/201503250925538825_352_352.jpg"
+        }
+      ]
+    },
+    {
+      "type": "2",
+      "id":"foods",
+      "title":"休闲食品",
+      "addr":"http://www.tugoo.net/UploadFile/ggs/201605261835490333.jpg",
+      "des":[
+        {
+          "id":"0",
+          "title":"1号鲜客 挪威冰鲜三文鱼刺身400g",
+          "price":"79.00",
+          "name":"挪威冰鲜三文鱼刺身400g",
+          "image":"http://www.tugoo.net/UploadFile/product/317/201707081107044936_352_352.jpg"
+        },
+        {
+          "id":"1",
+          "title":"大连特产鲜活大鲍鱼鲜活海鲜水产活鲜海产",
+          "price":"128.00",
+          "name":"大连特产鲜活大鲍鱼",
+          "image":"http://www.tugoo.net/UploadFile/product/651/201503250925538825_352_352.jpg"
+        },
+        {
+          "id":"2",
+          "title":"大连特产鲜活大鲍鱼鲜活海鲜水产活鲜海产",
+          "price":"128.00",
+          "name":"大连特产鲜活大鲍鱼",
+          "image":"http://www.tugoo.net/UploadFile/product/651/201503250925538825_352_352.jpg"
+        },
+        {
+          "id":"3",
+          "title":"1号鲜客 挪威冰鲜三文鱼刺身400g",
+          "price":"79.00",
+          "name":"挪威冰鲜三文鱼刺身400g",
+          "image":"http://www.tugoo.net/UploadFile/product/317/201707081107044936_352_352.jpg"
+        },
+        {
+          "id":"4",
+          "title":"大连特产鲜活大鲍鱼鲜活海鲜水产活鲜海产",
+          "price":"128.00",
+          "name":"大连特产鲜活大鲍鱼",
+          "image":"http://www.tugoo.net/UploadFile/product/651/201503250925538825_352_352.jpg"
+        },
+        {
+          "id":"5",
+          "title":"大连特产鲜活大鲍鱼鲜活海鲜水产活鲜海产",
+          "price":"128.00",
+          "name":"大连特产鲜活大鲍鱼",
+          "image":"http://www.tugoo.net/UploadFile/product/651/201503250925538825_352_352.jpg"
+        }
+      ]
+    },
+    {
+      "type": "3",
+      "id":"tea",
+      "title":"茶叶冲饮",
+      "addr":"http://www.tugoo.net/UploadFile/ggs/201605261835490333.jpg",
+      "des":[
+        {
+          "id":"0",
+          "title":"1号鲜客 挪威冰鲜三文鱼刺身400g",
+          "price":"79.00",
+          "name":"挪威冰鲜三文鱼刺身400g",
+          "image":"http://www.tugoo.net/UploadFile/product/317/201707081107044936_352_352.jpg"
+        },
+        {
+          "id":"1",
+          "title":"大连特产鲜活大鲍鱼鲜活海鲜水产活鲜海产",
+          "price":"128.00",
+          "name":"大连特产鲜活大鲍鱼",
+          "image":"http://www.tugoo.net/UploadFile/product/651/201503250925538825_352_352.jpg"
+        },
+        {
+          "id":"2",
+          "title":"大连特产鲜活大鲍鱼鲜活海鲜水产活鲜海产",
+          "price":"128.00",
+          "name":"大连特产鲜活大鲍鱼",
+          "image":"http://www.tugoo.net/UploadFile/product/651/201503250925538825_352_352.jpg"
+        },
+        {
+          "id":"3",
+          "title":"1号鲜客 挪威冰鲜三文鱼刺身400g",
+          "price":"79.00",
+          "name":"挪威冰鲜三文鱼刺身400g",
+          "image":"http://www.tugoo.net/UploadFile/product/317/201707081107044936_352_352.jpg"
+        },
+        {
+          "id":"4",
+          "title":"大连特产鲜活大鲍鱼鲜活海鲜水产活鲜海产",
+          "price":"128.00",
+          "name":"大连特产鲜活大鲍鱼",
+          "image":"http://www.tugoo.net/UploadFile/product/651/201503250925538825_352_352.jpg"
+        },
+        {
+          "id":"5",
+          "title":"大连特产鲜活大鲍鱼鲜活海鲜水产活鲜海产",
+          "price":"128.00",
+          "name":"大连特产鲜活大鲍鱼",
+          "image":"http://www.tugoo.net/UploadFile/product/651/201503250925538825_352_352.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+@import 'tools';
+.nav-list{
+  width: 100%;
+  // overflow: hidden;
+  .flexAround();
+  background-color: orange;
+  height: 3rem;
+  line-height: 3rem;
+  .nav-item{
+    text-align: center;
+    // float: left;
+    border-right: 1px solid #c0c0c0;
+    box-sizing: border-box;
+    a{
+      transition: all 0.5s ease-in-out;
+      .relative();
+      .icon{
+        .absolute_right_top(-18px, -10px);
+      }
+    }
+    &:last-of-type{
+      border-right: 0 none;
+    }
+    &:hover a{
+      color: #dbdf1e;
+    }
+  }
+}

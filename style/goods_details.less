@@ -1,0 +1,54 @@
+@import 'tools';
+
+main{
+  width: 1200px;
+  margin: 3rem auto 0;
+  overflow: hidden;
+  .goods-details{
+    .goods-img{
+      width: 400px;
+      height: 400px;
+      background: no-repeat center;
+      background-size: cover;
+      border-radius: 0.5rem;
+      cursor: pointer;
+      .relative();
+      .zoom{
+        width: 400px;
+        height: 400px;
+        background: #fff no-repeat center;
+        border-radius: 50%;
+        background-size: cover;
+        box-shadow: 0 0 10px grey;
+        .absolute(500px);
+        overflow: hidden;
+        display: none;
+      }
+    }
+    .goods-info{
+      width: 400px;
+      height: 400px;
+      padding: 1rem;
+      .title{
+        padding: 3rem;
+        text-align: center;
+        font-size: 1rem;
+      }
+      p{
+        text-align: center;
+        padding: 2rem;
+        .price{
+          font-weight: bold;
+          color: red;
+        }
+      }
+      .btnPay{
+        .toBlock(10rem,2rem);
+        .center(1rem);
+        background-color: orange;
+        color: white;
+        border-radius: 0.5rem;
+      }
+    }
+  }
+}

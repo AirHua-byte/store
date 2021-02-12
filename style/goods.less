@@ -1,0 +1,61 @@
+@import 'tools';
+
+main{
+  .goods{
+    .item{
+      .addr{
+        width: 100%;
+        height: 150px;
+        background: no-repeat cneter;
+        background-size: cover;
+        margin-top: 2rem;
+      }
+      .title{
+        text-align: center;
+        padding: 20px;
+        color: orange;
+        font-size: 2rem;
+      }
+      .goods-list{
+        width: 1200px;
+        margin: 0 auto;
+        .flexAround();
+        .goods-item{
+          text-align: center;
+          box-shadow: 0 0 10px grey;
+          padding: 1rem;
+          margin: 0.5rem;
+          border-radius: 0.5rem;
+          box-sizing: border-box;
+          a{
+            color: orange;
+            font-size: 1rem;
+            .image{
+              .center();
+            }
+            .name{
+              padding: 1rem 0 0;
+            }
+            .price{
+              padding: 0 0 1rem;
+            }
+            button{
+              .toBlock(10rem, 2rem);
+              .center();
+              border-color: orange;
+              font-size: 1rem;
+              margin: 0 auto 0.5rem;
+              color: orange;
+              &:hover{
+                color: #f00;
+              }
+            }
+          }
+          &:hover{
+            box-shadow: 0 0 10px orange;
+          }
+        }
+      }
+    }
+  }
+}

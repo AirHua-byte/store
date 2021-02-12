@@ -1,0 +1,32 @@
+@import 'tools';
+.category-nav{
+  z-index: 3;
+  a{
+    color: orange;
+  }
+  .absolute(0px,0px);
+  li{
+    height: 40px;
+    // line-height: 40px;
+    padding: 2rem 2rem;
+    box-sizing: border-box;
+    border-bottom: 1px solid #d6d6d6;
+  }
+  li:hover{
+    background-color: rgba(195,195,195,0.2);
+  }
+  .category-menu{
+    width: 10rem;
+    height: 400px;
+    // background-color: rgba(255,255,255,0.7);
+    .relative();
+    .category-sub-menu{
+      overflow: hidden;
+      width: 0;
+      height: 400px;
+      background-color: rgba(238,238,238,0.5);
+      .absolute(10rem,0);
+      transition: all 500ms;
+    }
+  }
+}
